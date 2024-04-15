@@ -104,8 +104,35 @@ Python can interact with web APIs to send and receive data, making it a powerful
 
 <h1>Refer My Python Source Code for better understanding of the concepts</h1>
 
+# Exercises Icluded :
+►  Exercises have been included for your practice and better grasping of your concepts
 
+# PROJECTS INCLUDED :
+►   5 COOL & INTRESTING PROJECTS have been Included to make you understand the uses of Python Programming, How vast & usefull Applications and real world problems could be solved using Python 😁
 
+►  The Projects are : 
+## 1. Robo-Speaker :
+This project basically takes user input and speaks it
 
+<img src = "https://s.wsj.net/public/resources/images/B3-CE679_201810_M_20181027103351.gif">
 
+## 2. Weather App:
+This project tells real time temperature in any city 
+
+<img src = "https://cdn.dribbble.com/users/2277649/screenshots/8498294/media/1f87fae49becc4fac866d70cbb5eca37.gif">
+
+## 3. Image Resizer: 
+This project basically reduces your images size, dimensions to its half => 50% without effecting the quality. For demo I have included my image in it try it 😁
+
+<img src = "https://www.softorbits.net/assets/img/how-to/en/resize-gifs/animagted.gif" width = "800px" height = "500px">
+
+## 4. Pdf Merger :
+This projects basiclly shows you how to use python to merge as many number of pdfs You want. You can use this project as backend with some few customisation  & using django or flask You can make a real world pdf merger site available on internet 😀😀
+
+<img src = "https://www.klippa.com/wp-content/uploads/2023/05/PDF_merger.gif" width = "800px">
+
+## 5. Drink Water Notifier for Windows:
+This is a very simple drink water every hour to remain hydrated reminder project 
+
+<img src = "https://media4.giphy.com/media/hsVIYAXEpGzMLfBD2G/giphy.gif">
 
